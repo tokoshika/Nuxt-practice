@@ -8,7 +8,7 @@
       <tr>
         <th colspan="6">5月8日～12日</th>
       </tr>
-      <tr>
+      <tr class="mainTr">
         <th>/</th>
         <th>月</th>
         <th>火</th>
@@ -16,13 +16,13 @@
         <th>木</th>
         <th>金</th>
       </tr>
-      <tr>
-        <td>/</td>
-        <td>8</td>
-        <td>9</td>
-        <td>10</td>
-        <td>11</td>
-        <td>12</td>
+      <tr class="mainTr">
+        <th>/</th>
+        <th>8</th>
+        <th>9</th>
+        <th>10</th>
+        <th>11</th>
+        <th>12</th>
       </tr>
       <tr>
         <td>1</td>
@@ -77,7 +77,7 @@
       <tr>
         <th colspan="6">5月15日～19日</th>
       </tr>
-      <tr>
+      <tr class="mainTr">
         <th>/</th>
         <th>月</th>
         <th>火</th>
@@ -85,13 +85,13 @@
         <th>木</th>
         <th>金</th>
       </tr>
-      <tr>
-        <td>/</td>
-        <td>15</td>
-        <td>16</td>
-        <td>17</td>
-        <td>18</td>
-        <td>19</td>
+      <tr class="mainTr">
+        <th>/</th>
+        <th>15</th>
+        <th>16</th>
+        <th>17</th>
+        <th>18</th>
+        <th>19</th>
       </tr>
       <tr>
         <td>1</td>
@@ -147,7 +147,7 @@
       <tr>
         <th colspan="6">5月23日～27日</th>
       </tr>
-      <tr>
+      <tr class="mainTr">
         <th>/</th>
         <th>月</th>
         <th>火</th>
@@ -155,13 +155,13 @@
         <th>木</th>
         <th>金</th>
       </tr>
-      <tr>
-        <td>/</td>
-        <td>23</td>
-        <td>24</td>
-        <td>25</td>
-        <td>26</td>
-        <td>27</td>
+      <tr class="mainTr">
+        <th>/</th>
+        <th>23</th>
+        <th>24</th>
+        <th>25</th>
+        <th>26</th>
+        <th>27</th>
       </tr>
       <tr>
         <td>1</td>
@@ -230,10 +230,11 @@
   table {
     margin-left: 1rem;
   }
-
+  .mainTr {
+    height: 10px;
+  }
   tr,
-  td,
-  th {
+  td {
     height: 70px;
     text-align: center;
     padding: 6px;
