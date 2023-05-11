@@ -5,7 +5,7 @@
         <th colspan="6">5月23日～27日</th>
       </tr>
       <tr class="date">
-        <th>/</th>
+        <th></th>
         <th>月</th>
         <th>火</th>
         <th>水</th>
@@ -13,7 +13,7 @@
         <th>金</th>
       </tr>
       <tr class="date">
-        <th>/</th>
+        <th></th>
         <th>23</th>
         <th>24</th>
         <th>25</th>
