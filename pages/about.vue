@@ -5,16 +5,29 @@
   </div>
 
   <div class="pla">
-    <mayone />
-    <maytwo />
-    <maythree />
+    <div class="compoment"><mayone /></div>
+    <div class="compoment"><maytwo /></div>
+    <div class="compoment"><maythree /></div>
   </div>
 </template>
 
 <style scoped>
   .pla {
-    display: flex;
+    margin: 0;
+    padding: 0;
     text-align: center;
     justify-content: center;
+    background-color: whitesmoke;
+  }
+  @media screen and (min-width: 926px) {
+    .pla {
+      display: flex;
+      text-align: center;
+      justify-content: center;
+    }
+    .compoment {
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+    }
   }
 </style>
