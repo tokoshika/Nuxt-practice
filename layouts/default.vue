@@ -5,7 +5,7 @@
       <nav>
         <ul>
           <li>
-            <NuxtLink to="/">HOME</NuxtLink>
+            <NuxtLink to="/">ホーム</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/about">5月の早見表</NuxtLink>
