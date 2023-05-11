@@ -2,7 +2,7 @@
   <div class="table-container">
     <table border="1">
       <tr>
-        <th colspan="6">5月23日～27日</th>
+        <th colspan="6"><h3>5月22日～26日</h3></th>
       </tr>
       <tr class="date">
         <th></th>
@@ -73,7 +73,7 @@
 </template>
 <style scoped>
   span {
-    color: red;
+    color: tomato;
   }
   .need {
     color: green;
@@ -89,9 +89,12 @@
   .date {
     height: 20px;
   }
+  th {
+    background-color: rgb(236, 231, 231);
+  }
   tr,
   td {
-    height: 70px;
+    height: 72px;
     text-align: center;
     padding: 6px;
   }

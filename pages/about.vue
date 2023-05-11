@@ -19,6 +19,9 @@
     justify-content: center;
     background-color: whitesmoke;
   }
+  span {
+    color: tomato;
+  }
   @media screen and (min-width: 926px) {
     .pla {
       display: flex;
@@ -28,6 +31,9 @@
     .compoment {
       margin-left: 0.5rem;
       margin-right: 0.5rem;
+    }
+    span {
+      color: tomato;
     }
   }
 </style>

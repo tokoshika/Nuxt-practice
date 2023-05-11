@@ -2,7 +2,9 @@
   <div class="table-container">
     <table border="1">
       <tr>
-        <th colspan="6">5月15日～19日</th>
+        <th colspan="6">
+          <h3>5月15日～19日</h3>
+        </th>
       </tr>
       <tr class="date">
         <th></th>
@@ -62,11 +64,11 @@
       </tr>
       <tr>
         <td>6</td>
-        <td>有賀<br />津川</td>
-        <td>有賀<br />津川</td>
-        <td>有賀<br />津川</td>
-        <td>有賀<br />津川</td>
-        <td>有賀<br />津川</td>
+        <td>有賀<br />津川<br />佐藤</td>
+        <td>有賀<br />津川<br />佐藤</td>
+        <td>有賀<br />津川<br />佐藤</td>
+        <td>有賀<br />津川<br />佐藤</td>
+        <td>有賀<br />津川<br />佐藤</td>
       </tr>
     </table>
   </div>
@@ -74,7 +76,7 @@
 
 <style scoped>
   span {
-    color: red;
+    color: tomato;
   }
   .need {
     color: green;
@@ -90,9 +92,12 @@
   .date {
     height: 20px;
   }
+  th {
+    background-color: rgb(236, 231, 231);
+  }
   tr,
   td {
-    height: 70px;
+    height: 72px;
     text-align: center;
     padding: 6px;
   }
