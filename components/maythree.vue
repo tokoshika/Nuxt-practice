@@ -4,7 +4,7 @@
       <tr>
         <th colspan="6">5月23日～27日</th>
       </tr>
-      <tr class="mainTr">
+      <tr class="date">
         <th>/</th>
         <th>月</th>
         <th>火</th>
@@ -12,7 +12,7 @@
         <th>木</th>
         <th>金</th>
       </tr>
-      <tr class="mainTr">
+      <tr class="date">
         <th>/</th>
         <th>23</th>
         <th>24</th>
@@ -86,8 +86,8 @@
   table {
     margin: 0;
   }
-  th {
-    height: 40px;
+  .date {
+    height: 20px;
   }
   tr,
   td {
