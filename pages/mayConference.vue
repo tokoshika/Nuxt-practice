@@ -1,6 +1,6 @@
 <template>
   <div class="table-container">
-    <table border="1" style="">
+    <table border="1">
       <tr class="date">
         <th></th>
         <th colspan="3">5月22日(月)</th>
