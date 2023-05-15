@@ -25,7 +25,7 @@
       <tr>
         <td>1</td>
         <td>津川</td>
-        <td class="need">募集</td>
+        <td><span>佐藤</span></td>
         <td><span>津川</span></td>
         <td><span>津川</span></td>
         <td><span>津川</span><br />有賀</td>
@@ -33,34 +33,36 @@
       <tr>
         <td>2</td>
         <td>有賀</td>
-        <td><span>津川</span><br />有賀</td>
-        <td></td>
+        <td><span>津川</span><br />有賀<br />川倉</td>
+        <td>佐藤<br />川倉</td>
         <td>有賀<br />津川</td>
         <td><span>津川</span><br />有賀</td>
       </tr>
       <tr>
         <td>3</td>
-        <td><span>有賀</span></td>
-        <td>有賀<br />津川</td>
+        <td><span>有賀</span><br />川倉<br />佐藤</td>
+        <td>有賀<br />津川<br />川倉</td>
         <td><span>有賀</span><br />津川</td>
-        <td><span>津川</span></td>
-        <td>津川</td>
+        <td><span>津川</span><br />川倉</td>
+        <td>津川<br />川倉<br />佐藤</td>
       </tr>
       <tr>
         <td>4</td>
-        <td></td>
-        <td><span class="need">募集</span></td>
+        <td>川倉</td>
+        <td><span>川倉</span></td>
         <td><span>有賀</span></td>
-        <td>有賀</td>
-        <td>有賀</td>
+        <td>有賀<br />川倉</td>
+        <td>有賀<br />川倉</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>津川</td>
+        <td><span>津川</span></td>
+        <td>
+          <span>有賀<br />川倉</span>
+        </td>
         <td><span>有賀</span></td>
         <td><span>有賀</span></td>
-        <td><span>有賀</span></td>
-        <td></td>
+        <td>川倉</td>
       </tr>
       <tr>
         <td>6</td>
