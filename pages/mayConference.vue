@@ -16,19 +16,19 @@
       <!-- 15:00～ -->
 
       <tr>
-        <td rowspan="3">15:00</td>
+        <td class="color-zero" rowspan="3">15:00</td>
         <div>
-          <td class="color-one">上村 樹生</td>
+          <td class="color-one name">上村 樹生</td>
           <td class="color-one">川倉</td>
           <td class="color-one">所</td>
         </div>
         <div>
-          <td class="color-two">森内 碧陸</td>
+          <td class="color-two name">森内 碧陸</td>
           <td class="color-two">津川</td>
           <td class="color-two">田原</td>
         </div>
         <div>
-          <td class="color-three">会田 梛</td>
+          <td class="color-three name">会田 梛</td>
           <td class="color-three">有賀</td>
           <td class="color-three">田原</td>
         </div>
@@ -38,19 +38,19 @@
           <td class="color-four"></td>
         </div>
         <div>
-          <td class="color-five">上嶋 望愛</td>
+          <td class="color-five name">上嶋 望愛</td>
           <td class="color-five">佐藤</td>
           <td class="color-five">有賀</td>
         </div>
       </tr>
       <tr>
         <div>
-          <td class="color-one">国重 紬希</td>
+          <td class="color-one name">国重 紬希</td>
           <td class="color-one">津川</td>
           <td class="color-one">田原</td>
         </div>
         <div>
-          <td class="color-two">橋本 悠杜</td>
+          <td class="color-two name">橋本 悠杜</td>
           <td class="color-two">有賀</td>
           <td class="color-two">田原</td>
         </div>
@@ -72,7 +72,7 @@
       </tr>
       <tr>
         <div>
-          <td class="color-one">髙橋 蓮</td>
+          <td class="color-one name">髙橋 蓮</td>
           <td class="color-one">有賀</td>
           <td class="color-one">伊藤</td>
         </div>
@@ -100,7 +100,7 @@
 
       <!-- 15:30から -->
       <tr>
-        <td rowspan="1">15:30</td>
+        <td class="color-zero" rowspan="1">15:30</td>
         <div>
           <td class="color-one"></td>
           <td class="color-one"></td>
@@ -117,12 +117,12 @@
           <td class="color-three"></td>
         </div>
         <div>
-          <td class="color-four">八田 空</td>
+          <td class="color-four name">八田 空</td>
           <td class="color-four">川倉</td>
           <td class="color-four">所</td>
         </div>
         <div>
-          <td class="color-five">西垣 晴樹</td>
+          <td class="color-five name">西垣 晴樹</td>
           <td class="color-five">川倉</td>
           <td class="color-five">佐藤</td>
         </div>
@@ -130,14 +130,14 @@
 
       <!-- 16:00から -->
       <tr>
-        <td rowspan="1">16:00</td>
+        <td class="color-zero" rowspan="1">16:00</td>
         <div>
-          <td class="color-one">志賀 楓馬</td>
+          <td class="color-one name">志賀 楓馬</td>
           <td class="color-one">川倉</td>
           <td class="color-one">田原</td>
         </div>
         <div>
-          <td class="color-two">石井 悠幹</td>
+          <td class="color-two name">石井 悠幹</td>
           <td class="color-two">所</td>
           <td class="color-two">川倉</td>
         </div>
@@ -160,7 +160,7 @@
 
       <!-- 枠外 -->
       <tr>
-        <td rowspan="1">枠外</td>
+        <td class="color-zero" rowspan="1">枠外</td>
         <div>
           <td class="color-one"></td>
           <td class="color-one"></td>
@@ -172,17 +172,17 @@
           <td class="color-two"></td>
         </div>
         <div>
-          <td class="color-three">24日(水)<br />菅原 瑠迦<br />16:30</td>
+          <td class="color-three name">24日(水)<br />菅原 瑠迦<br />16:30</td>
           <td class="color-three">川倉</td>
           <td class="color-three">田原</td>
         </div>
         <div>
-          <td class="color-four">29日(月)<br />北川 煌<br />15:00</td>
+          <td class="color-four name">29日(月)<br />北川 煌<br />15:00</td>
           <td class="color-four">所</td>
           <td class="color-four">佐藤</td>
         </div>
         <div>
-          <td class="color-five">29日(月)<br />清水 玲志<br />16:00</td>
+          <td class="color-five name">29日(月)<br />清水 玲志<br />16:00</td>
           <td class="color-five">有賀</td>
           <td class="color-five">津川</td>
         </div>
@@ -194,6 +194,13 @@
 <style scoped>
   span {
     color: tomato;
+  }
+  .name {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .color-zero {
+    background-color: rgb(236, 231, 231);
   }
   .color-one {
     background-color: #ffd1d1;
