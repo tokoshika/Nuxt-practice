@@ -195,7 +195,6 @@
   .name {
     font-size: 1rem;
     font-weight: bold;
-    font-family: "Noto Sans JP", sans-serif;
   }
   /* .color-zero {
     background-color: grey;
