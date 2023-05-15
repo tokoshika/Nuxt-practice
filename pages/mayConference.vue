@@ -226,6 +226,11 @@
   .date {
     height: 20px;
   }
+  .table-container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
 
   th,
   .color-zero {
