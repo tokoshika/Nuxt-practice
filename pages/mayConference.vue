@@ -1,16 +1,13 @@
 <template>
   <div class="table-container">
-    <table border="1">
-      <tr>
-        <th colspan="30"><h3>5月面談　日程</h3></th>
-      </tr>
+    <table border="1" style="">
       <tr class="date">
         <th></th>
-        <th class="color-one" colspan="3">5月22日(月)</th>
-        <th class="color-two" colspan="3">5月23日(火)</th>
-        <th class="color-three" colspan="3">5月24日(水)</th>
-        <th class="color-four" colspan="3">5月25日(木)</th>
-        <th class="color-five" colspan="3">5月26日(金)</th>
+        <th colspan="3">5月22日(月)</th>
+        <th colspan="3">5月23日(火)</th>
+        <th colspan="3">5月24日(水)</th>
+        <th colspan="3">5月25日(木)</th>
+        <th colspan="3">5月26日(金)</th>
       </tr>
 
       <!-- 15:00～ -->
@@ -199,23 +196,23 @@
     font-size: 1rem;
     font-weight: bold;
   }
-  .color-zero {
-    background-color: rgb(236, 231, 231);
-  }
+  /* .color-zero {
+    background-color: grey;
+  } */
   .color-one {
-    background-color: #ffd1d1;
+    background-color: white;
   }
   .color-two {
-    background-color: #ffd1e8;
+    background-color: #e5f2ff;
   }
   .color-three {
-    background-color: #ffd1ff;
+    background-color: white;
   }
   .color-four {
-    background-color: #e8d1ff;
+    background-color: #e5f2ff;
   }
   .color-five {
-    background-color: #d1d1ff;
+    background-color: white;
   }
   .table-container {
     display: flex;
@@ -230,8 +227,10 @@
     height: 20px;
   }
 
-  th {
-    background-color: rgb(236, 231, 231);
+  th,
+  .color-zero {
+    background-color: rgb(83, 83, 83);
+    color: white;
   }
   tr,
   td {
