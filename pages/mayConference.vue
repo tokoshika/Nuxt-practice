@@ -2,7 +2,7 @@
   <div class="table-container">
     <table border="1">
       <tr>
-        <th colspan="30"><h3>5月8日～12日</h3></th>
+        <th colspan="30"><h3>5月面談　日程</h3></th>
       </tr>
       <tr class="date">
         <th></th>
