@@ -163,7 +163,7 @@
 
 <style scoped>
   .date {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
   td {
     font-size: 1.5rem;
