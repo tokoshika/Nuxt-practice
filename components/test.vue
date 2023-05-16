@@ -166,7 +166,7 @@
     font-size: 1.5rem;
   }
   td {
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding: 3px;
     /* width: 60px; */
   }
