@@ -1,4 +1,5 @@
 <template>
+  <!-- ここは5月の面談日程です -->
   <div class="meeting">
     <table border="1">
       <tr class="date">
@@ -177,7 +178,7 @@
   }
   .name {
     font-weight: bold;
-    color: rgb(10, 58, 203);
+    color: rgb(30, 66, 175);
   }
 
   .grey {

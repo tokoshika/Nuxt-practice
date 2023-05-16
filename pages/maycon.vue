@@ -8,6 +8,6 @@
 
 <style scoped>
   h2 {
-    color: tomato;
+    color: rgb(171, 99, 86);
   }
 </style>
