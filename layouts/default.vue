@@ -11,6 +11,9 @@
             <NuxtLink to="/about" class="color"><p>5月の早見表</p></NuxtLink>
           </li>
           <li>
+            <NuxtLink to="/june" class="color"><p>6月の早見表</p></NuxtLink>
+          </li>
+          <li>
             <NuxtLink to="/maycon" class="color"
               ><p>面談日程（5月）</p></NuxtLink
             >
