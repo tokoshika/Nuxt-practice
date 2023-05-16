@@ -1,7 +1,13 @@
 <template>
-  <!-- <p>ここが問題なの？</p> -->
+  <h2>5月面談日程</h2>
 
   <div>
     <div><test /></div>
   </div>
 </template>
+
+<style scoped>
+  h2 {
+    color: tomato;
+  }
+</style>

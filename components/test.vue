@@ -108,7 +108,7 @@
     </table>
   </div>
   <br />
-  <p>枠外</p>
+  <h3>（枠外）</h3>
   <div class="meeting">
     <table border="1">
       <tr class="date">
@@ -126,7 +126,7 @@
         <td></td>
 
         <td class="name">北川<span>川</span>煌</td>
-        <td>所<span>所</span></td>
+        <td>所</td>
         <td>佐藤</td>
 
         <td class="name"></td>
@@ -139,7 +139,7 @@
         <td></td>
         <td></td>
         <td class="name"></td>
-        <td></td>
+        <td><span>植田</span></td>
         <td></td>
         <td class="name">清水玲志</td>
         <td>有賀</td>
