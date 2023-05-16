@@ -8,6 +8,6 @@
 
 <style scoped>
   h2 {
-    color: rgb(171, 99, 86);
+    color: rgb(98, 67, 62);
   }
 </style>

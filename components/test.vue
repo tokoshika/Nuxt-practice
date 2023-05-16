@@ -101,7 +101,9 @@
         <td></td>
         <td class="name grey"></td>
         <td class="grey"></td>
-        <td class="grey"></td>
+        <td class="grey">
+          <span style="color: rgb(207, 200, 200)">津川</span>
+        </td>
         <td class="name"></td>
         <td></td>
         <td></td>
