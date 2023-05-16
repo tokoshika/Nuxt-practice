@@ -2,7 +2,7 @@
   <div class="table-container">
     <table border="1">
       <tr class="date">
-        <th></th>
+        <!-- <th></th> -->
         <th colspan="3">5月22日(月)</th>
         <th colspan="3">5月23日(火)</th>
         <th colspan="3">5月24日(水)</th>
@@ -197,8 +197,8 @@
     font-weight: bold;
   }
   /* .color-zero {
-    background-color: grey;
-  } */
+      background-color: grey;
+    } */
   .color-one {
     background-color: white;
   }
@@ -225,11 +225,6 @@
   }
   .date {
     height: 20px;
-  }
-  .table-container {
-    margin: 0;
-    padding: 0;
-    text-align: center;
   }
 
   th,
