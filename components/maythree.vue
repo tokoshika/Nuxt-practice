@@ -14,58 +14,60 @@
       </tr>
       <tr class="date">
         <th></th>
+        <th>22</th>
         <th>23</th>
         <th>24</th>
         <th>25</th>
         <th>26</th>
-        <th>27</th>
       </tr>
       <tr>
         <td>1</td>
-        <td>募集</td>
-        <td>募集</td>
-        <td>募集</td>
-        <td>募集</td>
-        <td>募集</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><span>有賀</span></td>
       </tr>
       <tr>
         <td>2</td>
+        <td><span>有賀</span><br />川倉</td>
+        <td><span>有賀</span></td>
+        <td><span>川倉</span></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><span>川倉</span></td>
       </tr>
       <tr>
         <td>3</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><span>川倉</span></td>
+        <td>有賀<br />佐藤<br />川倉</td>
+        <td>
+          <span>有賀<br />川倉</span>
+        </td>
+        <td>有賀<br />佐藤<br />川倉</td>
+        <td>有賀</td>
       </tr>
       <tr>
         <td>4</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>川倉</td>
+        <td><span>有賀</span><br />佐藤<br />川倉</td>
+        <td><span>川倉</span></td>
+        <td><span>川倉</span></td>
+        <td><span>有賀</span><br />川倉</td>
       </tr>
       <tr>
         <td>5</td>
+        <td><span>有賀</span></td>
+        <td><span>川倉</span></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><span>川倉</span><br />佐藤</td>
+        <td><span>川倉</span></td>
       </tr>
       <tr>
         <td>6</td>
+        <td><span>有賀</span></td>
+        <td><span>川倉</span></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><span>有賀</span><br />川倉</td>
         <td></td>
       </tr>
     </table>
