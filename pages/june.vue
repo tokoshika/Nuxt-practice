@@ -1,8 +1,10 @@
 <template>
-  <div>
-    6月分【特別支援】名義貸し<span>早見表</span><br /><span>赤字</span
-    >の名前は只野先生に貸し出されています。<br />必要な名義がありましたら、所の机の上にポストイットして下さい。
+  <div class="msg">
+    <p>6月分【特別支援】名義貸し<span>早見表</span></p>
+    <p><span>赤字</span>の名前は只野先生に貸し出されています。</p>
+    <p>必要な名義がありましたら、所の机の上にポストイットして下さい。</p>
   </div>
+
   <div class="pla">
     <div class="component"><JuneJuneplan /></div>
     <div class="component"><JuneJuneplan2 /></div>
@@ -10,6 +12,14 @@
 </template>
 
 <style scoped>
+  .msg {
+    width: 500px;
+    margin: auto;
+    line-height: 0.5rem;
+  }
+  p {
+    text-align: left;
+  }
   .pla {
     margin: 0;
     padding: 0;
@@ -17,6 +27,7 @@
     justify-content: center;
     background-color: whitesmoke;
   }
+
   span {
     color: tomato;
   }
