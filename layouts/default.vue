@@ -30,6 +30,9 @@
     background-color: rgb(40, 38, 38);
     color: white;
   }
+  .color p:hover {
+    color: tomato;
+  }
   header {
     text-align: center;
   }
