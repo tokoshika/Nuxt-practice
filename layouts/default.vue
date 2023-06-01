@@ -31,7 +31,7 @@
     color: white;
   }
   .color p:hover {
-    color: tomato;
+    color: yellow;
   }
   header {
     text-align: center;
