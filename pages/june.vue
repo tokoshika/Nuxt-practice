@@ -4,7 +4,8 @@
     >の名前は只野先生に貸し出されています。<br />必要な名義がありましたら、所の机の上にポストイットして下さい。
   </div>
   <div class="pla">
-    <JuneJuneplan />
+    <div class="component"><JuneJuneplan /></div>
+    <div class="component"><JuneJuneplan2 /></div>
   </div>
 </template>
 
@@ -25,7 +26,7 @@
       text-align: center;
       justify-content: center;
     }
-    .compoment {
+    .component {
       margin-left: 0.5rem;
       margin-right: 0.5rem;
     }

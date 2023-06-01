@@ -5,9 +5,9 @@
   </div>
 
   <div class="pla">
-    <div class="compoment"><mayone /></div>
-    <div class="compoment"><maytwo /></div>
-    <div class="compoment"><maythree /></div>
+    <div class="component"><mayone /></div>
+    <div class="component"><maytwo /></div>
+    <div class="component"><maythree /></div>
   </div>
 </template>
 
@@ -28,7 +28,7 @@
       text-align: center;
       justify-content: center;
     }
-    .compoment {
+    .component {
       margin-left: 0.5rem;
       margin-right: 0.5rem;
     }
