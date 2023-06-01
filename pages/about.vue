@@ -1,7 +1,8 @@
 <template>
-  <div>
-    5月分【特別支援】名義貸し<span>早見表</span><br /><span>赤字</span
-    >の名前は只野先生に貸し出されています。<br />必要な名義がありましたら、所の机の上にポストイットして下さい。
+  <div class="msg">
+    <p>6月分【特別支援】名義貸し<span>早見表</span></p>
+    <p><span>赤字</span>の名前は只野先生に貸し出されています。</p>
+    <p>必要な名義がありましたら、所の机の上にポストイットして下さい。</p>
   </div>
 
   <div class="pla">
@@ -12,6 +13,11 @@
 </template>
 
 <style scoped>
+  .msg {
+    width: 500px;
+    margin: auto;
+    line-height: 0.5rem;
+  }
   .pla {
     margin: 0;
     padding: 0;
@@ -22,6 +28,10 @@
   span {
     color: tomato;
   }
+  p {
+    text-align: left;
+  }
+
   @media screen and (min-width: 926px) {
     .pla {
       display: flex;

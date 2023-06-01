@@ -47,7 +47,6 @@
     text-decoration: none;
   }
   li {
-    color: red;
     list-style: none;
     margin-right: 2rem;
   }
