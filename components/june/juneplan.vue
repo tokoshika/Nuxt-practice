@@ -23,42 +23,42 @@
       <tr>
         <td>1</td>
         <td><span>川倉</span></td>
-        <td></td>
+        <td>有賀</td>
         <td>川倉</td>
-        <td><span>川倉</span></td>
-        <td><span>川倉</span></td>
+        <td><span>津川</span></td>
+        <td><span>有賀</span></td>
       </tr>
       <tr>
         <td>2</td>
-        <td></td>
-        <td><span>川倉</span></td>
+        <td>有賀</td>
+        <td><span>津川</span></td>
         <td>川倉</td>
-        <td><span>川倉</span></td>
-        <td><span>川倉</span></td>
+        <td><span>有賀</span></td>
+        <td><span>津川</span></td>
       </tr>
       <tr>
         <td>3</td>
+        <td>有賀</td>
+        <td><span>有賀</span></td>
         <td></td>
-        <td><span>川倉</span></td>
-        <td>川倉</td>
-        <td><span>川倉</span></td>
+        <td><span>有賀</span></td>
         <td></td>
       </tr>
       <tr>
         <td>4</td>
+        <td>有賀</td>
+        <td><span>津川</span></td>
         <td></td>
-        <td><span>川倉</span></td>
-        <td>川倉</td>
-        <td></td>
+        <td>有賀</td>
         <td></td>
       </tr>
       <tr>
         <td>5</td>
         <td><span>川倉</span></td>
         <td><span>川倉</span></td>
-        <td>川倉</td>
+        <td>有賀<br>川倉</td>
         <td><span>川倉</span></td>
-        <td><span>川倉</span></td>
+        <td>有賀<br><span>川倉</span></td>
       </tr>
       <tr>
         <td>6</td>
